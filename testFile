@@ -1,3 +1,14 @@
 how to remove dev branch locally and remotely ?
 remotely --> git push origin :dev
 locally  --> git branch -d dev
+
+
+
+
+how to list tags ?
+git tag
+
+
+how to delete tag locally and remotely?
+locally  --> git tag -d v1.7
+remotely --> git push origin --delete v1.7
