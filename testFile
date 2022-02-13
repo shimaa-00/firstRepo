@@ -1,0 +1,3 @@
+how to remove dev branch locally and remotely ?
+remotely --> git push origin :dev
+locally  --> git branch -d dev
